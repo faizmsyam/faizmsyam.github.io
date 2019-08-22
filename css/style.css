@@ -1,0 +1,39 @@
+.slider h5 {
+   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+.slider h3 {
+   font-family: 'Viga';
+   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slider img {
+   -webkit-filter: blur(3px);
+           filter: blur(3px);
+}
+
+nav .brand-logo {
+   font-family: 'Quartzo';
+   text-transform: capitalize !important;
+}
+
+.parallax-container {
+   height: 20%;
+}
+
+.clients h3 {
+   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax img {
+   filter: grayscale(1);
+   opacity: 0.5 !important;
+}
+
+.clients img {
+   max-width: 200px;
+   filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+section, footer {
+   padding: 20px 0;
+}
